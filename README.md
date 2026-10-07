@@ -14,3 +14,8 @@
 <p align="center"> <img width="100%" src="https://ghchart.rshah.org/2ea043/Vineethujr" alt="Vineeth's GitHub contribution graph" /> </p>
 💭 Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vineethujr&label=Profile%20Views&color=2ea043&style=flat" />
+  <img src="https://img.shields.io/github/followers/Vineethujr?label=Followers&style=flat&color=2ea043" />
+  <img src="https://img.shields.io/github/stars/Vineethujr?label=Stars&style=flat&color=2ea043" />
+</p>
